@@ -1,0 +1,31 @@
+.prev{
+    position: fixed;
+    left: 2rem;
+    top: 50vh;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    background-color: transparent;
+    border-style: none;
+        svg{
+            fill:#074973
+           
+        }:hover{
+            fill:#A64B75
+        }
+    
+}
+.next{
+    position:fixed;
+    right: 2rem;
+    top: 50vh;    width: auto;
+    height: auto;
+    background-color: transparent;
+    border-style: none;
+    svg{
+        fill:#074973
+       
+    }:hover{
+        fill:#A64B75
+    }
+}
